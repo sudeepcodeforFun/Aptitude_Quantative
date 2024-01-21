@@ -19,30 +19,4 @@ Series Pattern Given Series
 4 × 12 + 8 = 56 56
 4 × 14 + 9 = 65 65 ✓
 Hence, option (A) is correct
-8. 
-Series Pattern Given Series
-9 9
-9 + 15 = 24 24
-24 + 15 × 3 = 69 69
-69 + 15 × 3 × 3 = 204 204
-204 + 15 × 3 × 3 × 3 = 609 609
-609 + 15 × 3 × 3 × 3 × 3 = 1824 1824 ✓
-Hence, option (D) is correct.
-9.
-Series Pattern Given Series
-582 582
-582 + 169 = 751 751
-751 – 196 = 555 555
-555 + 169 = 724 724
-724 – 196 = 528 528
-528 + 169 = 697 697 ✓
-Hence, option (C) is correct.
-10.
-Series Pattern Given Series
-14                   14
-14 + 19 = 33         33
-33 + 19 × 2 = 71     71
-71 + 19 × 3 = 128   128
-128 + 19 × 4 = 204   204
-204 + 19 × 5 = 299   299 ✓
-Hence, option (E) is correct. 
+
